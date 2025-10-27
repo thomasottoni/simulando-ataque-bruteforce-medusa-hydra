@@ -60,7 +60,7 @@ executando uma tentativa de login com credenciais deliberadamente incorretas, po
 
 <img width="1278" height="832" alt="image" src="https://github.com/user-attachments/assets/adcbd1b5-a2d7-4809-9be8-da58a63beb9e" />
 
-essa informação é valiosa pois será necessária para realizar o ataque com a ferramenta Medusa.
+essa informação é valiosa pois será necessária para realizar o ataque com a ferramenta Hydra.
 
 ## Brute Force na aplicação web utilizando o Hydra
 
